@@ -1,8 +1,11 @@
 # 👋 Hi, I'm Oscar Roman
 
-I'm a passionate developer working on BIM, data engineering, automation in AEC, and Digital Twins. 
-I love writing clean code and building intelligent digital workflows for Energy Efficiency. Let's build the future together 🚀
+I'm a passionate developer focused on **BIM**, **data engineering**, **automation in AEC**, and **Digital Twins for buildings**.  
+I specialize in creating intelligent, data-driven workflows that support **energy efficiency**, **sustainability**, and **building performance optimization**.
 
+From geometry to analytics, I bridge the gap between the physical and digital worlds — building smarter systems for smarter cities 🚀
+
+---
 
 ## 📊 GitHub Stats
 
@@ -16,21 +19,23 @@ I love writing clean code and building intelligent digital workflows for Energy 
 
 ## 🏆 GitHub Trophies
 
-[![Trophy](https://github-profile-trophy.vercel.app/?username=oscar88roman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=oscar88roman&theme=onedark&column=4&margin-w=10&margin-h=10" alt="Trophies" />
+</p>
 
 ---
 
-## 📈 Activity Graph
+## 📈 Contribution Activity
 
 [![Oscar's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=oscar88roman&theme=react-dark)](https://github.com/oscar88roman)
 
 ---
 
-## 🔗 Connect
+## 🌐 Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/oscar88roman/)
-- 💼 BIM | Data | Automation | AI
+- [LinkedIn](https://www.linkedin.com/in/oscar88roman/)
+- BIM | Energy | Digital Twins | Data Automation
 
 ---
 
-_This profile README was auto-generated with ❤️ and open-source tools._
+> _“Energy-efficient buildings start with intelligent digital models.”_ — Oscar Roman
