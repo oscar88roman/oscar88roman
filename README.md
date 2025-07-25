@@ -9,15 +9,16 @@ From raw geometry to clean analytics — I help make buildings **energy-smart** 
 
 ## 🛠️ What I Work On
 
-- 🔷 **Scan-to-BIM** automation for energy modeling  
-- 📐 Semantic + topological BIM for **BEM-ready** outputs  
+- 🔷 **Scan-to-BIM** automation 
+- 📐 Semantic & topological BIM for **BEM-ready** outputs  
 - 🧱 Clean IFC pipelines for Digital Twins  
 - ⚡ Export to **gbXML**, **EnergyPlus**, **IDA ICE**  
 - 🧠 Digital Twins for **BMS** & building operations  
 - 📊 Structured geometry → performance insights
 
+---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
 ![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscar88roman&show_icons=true&theme=radical)
 
@@ -27,13 +28,13 @@ From raw geometry to clean analytics — I help make buildings **energy-smart** 
 
 ---
 
-## 🏆 GitHub Trophies
+# 🏆 GitHub Trophies
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=oscar88roman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 📈 Activity Graph
+# 📈 Activity Graph
 
 [![Oscar's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=oscar88roman&theme=react-dark)](https://github.com/oscar88roman)
 
