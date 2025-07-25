@@ -1,4 +1,4 @@
-👋 Hi, I'm Oscar Roman
+👋 Hi, I'm Oscar 🌳
 
 I'm a **building engineer** passionate about **energy efficiency**, **Scan-to-BIM**, and **data-driven BIM workflows** in the AEC industry.  
 I create accurate, simulation-ready **topological models** for **Building Energy Modeling (BEM)** and **Digital Twins**, leveraging tools like **EnergyPlus**, **IFC**, and **gbXML** to support smart, sustainable design and operations.
@@ -18,7 +18,7 @@ From raw geometry to clean analytics — I help make buildings **energy-smart** 
 
 ---
 
-# 📊 GitHub Stats
+📊 GitHub Stats
 
 ![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscar88roman&show_icons=true&theme=radical)
 
@@ -28,19 +28,19 @@ From raw geometry to clean analytics — I help make buildings **energy-smart** 
 
 ---
 
-# 🏆 GitHub Trophies
+🏆 GitHub Trophies
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=oscar88roman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-# 📈 Activity Graph
+📈 Activity Graph
 
 [![Oscar's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=oscar88roman&theme=react-dark)](https://github.com/oscar88roman)
 
 ---
 
-## 🌐 Let's Connect
+🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/oscar-roman-934613206/)
 - ✉️ Email: available on request
