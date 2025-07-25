@@ -16,28 +16,26 @@ From raw geometry to clean analytics — I help make buildings **energy-smart** 
 - 🧠 Digital Twins for **BMS** & building operations  
 - 📊 Structured geometry → performance insights
 
----
 
 ## 📊 GitHub Stats
 
-![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscar88roman&show_icons=true&theme=calm)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscar88roman&layout=compact&theme=calm)
+![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscar88roman&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscar88roman&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oscar88roman&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oscar88roman&theme=flat&column=4&margin-w=8&margin-h=8" alt="Trophies" />
-</p>
+[![Trophy](https://github-profile-trophy.vercel.app/?username=oscar88roman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oscar88roman&theme=gruvbox&column=6&margin-w=8&margin-h=8" alt="Trophies" />
-</p>
+[![Oscar's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=oscar88roman&theme=react-dark)](https://github.com/oscar88roman)
 
 ---
 
