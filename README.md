@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Oscar 🌳
+# 👋 Hi, I'm Oscar Roman🌳
 
 I'm a **building engineer** passionate about **energy efficiency**, **Scan-to-BIM**, and **data-driven BIM workflows** in the AEC industry.  
 I create simulation-ready **topological models** for **Building Energy Modeling (BEM)** and **Digital Twins**, leveraging tools like **EnergyPlus**, **IFC**, and **gbXML** to support smart, sustainable design and operations.
