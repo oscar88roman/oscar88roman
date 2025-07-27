@@ -43,7 +43,7 @@ From raw geometry to clean analytics — I help make buildings **energy-smart** 
 🌐 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/oscar-roman-934613206/)
-- ✉️ Email: available on request
+- ✉️ Email: oroman@fbk.eu
 
 ---
 
