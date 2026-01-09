@@ -16,15 +16,19 @@ From raw geometry to clean analytics — I help make buildings **energy-smart** 
 - 🧠 Digital Twins for **BMS** & building operations  
 - 📊 Structured geometry → performance insights
 
----
-
 ## 📊 GitHub Stats
 
-![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscar88roman&show_icons=true&theme=radical)
+![Profile summary](./profile-summary/profile-details.svg)
+![Languages](./profile-summary/repos-per-language.svg)
+![Commits](./profile-summary/most-commit-language.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscar88roman&layout=compact&theme=radical)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=oscar88roman&theme=radical)
+## 📈 Activity
+
+![Stats](./profile-summary/stats.svg)
+![Productive time](./profile-summary/productive-time.svg)
+
 
 ---
 
