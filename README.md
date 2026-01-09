@@ -33,19 +33,19 @@ I turn **point clouds / raw geometry** into **topologically clean, simulation-re
 
 ---
 
-## 🏆 GitHub Overview
+## 📊 GitHub Stats
 
-### Achievements
-![Trophies](./generated/metrics-trophies.svg)
+![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscar88roman&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscar88roman&layout=compact&theme=radical)
 
-### Stats & Languages
-<p align="center">
-  <img src="./generated/metrics-stats.svg" width="48%"/>
-  <img src="./generated/metrics-languages.svg" width="48%"/>
-</p>
+## 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com?user=oscar88roman&theme=radical)
 
-### Recent Activity
-![Activity](./generated/metrics-activity.svg)
+## 🏆 GitHub Trophies
+[![Trophy](https://github-profile-trophy.vercel.app/?username=oscar88roman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+## 📈 Activity Graph
+![Oscar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oscar88roman&theme=react-dark)
 
 ---
 
