@@ -12,11 +12,11 @@ From raw geometry to simulation-ready intelligence.<br/>
 
 I’m a **Building Engineer** working on **energy efficiency**, **Scan-to-BIM**, and **semantic BIM workflows** in the AEC industry.
 
-My focus is transforming **point clouds and raw geometry** into **topologically clean, simulation-ready models** for:
+I turn **point clouds / raw geometry** into **topologically clean, simulation-ready models** for:
 
-- 🏢 Building Energy Modeling (BEM)  
-- 🧠 Digital Twins  
-- ⚙️ Building operations & BMS analytics  
+- 🏢 Building Energy Modeling (BEM)
+- 🧠 Digital Twins
+- ⚙️ Building operations & BMS analytics
 
 > _Energy-efficient buildings start with intelligent digital models._
 
@@ -33,77 +33,25 @@ My focus is transforming **point clouds and raw geometry** into **topologically 
 
 ---
 
-## 🧰 Tools & Expertise
-
-**Interoperability**  
-`IFC` · `gbXML` · `OpenBIM`
-
-**Energy & Simulation**  
-`EnergyPlus` · `IDA ICE`
-
-**Workflows**  
-`Scan-to-BIM` · `Topology extraction` · `Semantic enrichment`
-
-**Automation & Data**  
-`Python` · `Rule-based pipelines` · `Model validation`
-
----
-
 ## 🏆 GitHub Overview
 
-<details>
-<summary><b>🏅 Achievements</b></summary>
+### Achievements
+![Trophies](./generated/metrics-trophies.svg)
 
-<br/>
-
-<img src="./generated/metrics-trophies.svg" alt="GitHub trophies" />
-
-</details>
-
-<details>
-<summary><b>📊 Stats & Languages</b></summary>
-
-<br/>
-
+### Stats & Languages
 <p align="center">
-  <img src="./generated/metrics-stats.svg" width="48%" />
-  <img src="./generated/metrics-languages.svg" width="48%" />
+  <img src="./generated/metrics-stats.svg" width="48%"/>
+  <img src="./generated/metrics-languages.svg" width="48%"/>
 </p>
 
-</details>
-
-<details>
-<summary><b>📈 Recent Activity</b></summary>
-
-<br/>
-
-<img src="./generated/metrics-activity.svg" alt="Recent activity" />
-
-</details>
-
----
-
-## 🧩 Contribution Flow
-
-<details>
-<summary><b>🐍 Visual contribution graph</b></summary>
-
-<br/>
-
-<img src="./generated/snake.svg" alt="Contribution snake" />
-
-</details>
+### Recent Activity
+![Activity](./generated/metrics-activity.svg)
 
 ---
 
 ## 🌐 Let’s Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/oscar-roman-934613206/  
-- ✉️ Email: oroman@fbk.eu  
-
----
-
-<p align="center">
-<b>Smart buildings start with smart models.</b>
-</p>
+- 💼 LinkedIn: https://www.linkedin.com/in/oscar-roman-934613206/
+- ✉️ Email: oroman@fbk.eu
+>
 
