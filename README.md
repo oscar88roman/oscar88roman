@@ -1,26 +1,22 @@
-<!-- ===================== -->
-<!--  OSCAR ROMAN README   -->
-<!-- ===================== -->
-
 <h1 align="center">🌳 Oscar Roman</h1>
 <h3 align="center">Building Engineer · Energy Modeling · Digital Twins</h3>
 
 <p align="center">
 From raw geometry to simulation-ready intelligence.<br/>
-I build <b>energy-aware</b>, <b>data-driven</b> digital models for the built environment.
+<b>Energy-aware</b> · <b>Data-driven</b> · <b>OpenBIM</b>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-I’m a **Building Engineer** focused on **energy efficiency**, **Scan-to-BIM**, and **semantic BIM workflows** for the AEC industry.
+I’m a **Building Engineer** working on **energy efficiency**, **Scan-to-BIM**, and **semantic BIM workflows** in the AEC industry.
 
-My work turns **point clouds and raw geometry** into **topologically clean, simulation-ready models** for:
+My focus is transforming **point clouds and raw geometry** into **topologically clean, simulation-ready models** for:
 
-- 🏢 **Building Energy Modeling (BEM)**
-- 🧠 **Digital Twins**
-- ⚙️ **Operational analytics & BMS integration**
+- 🏢 Building Energy Modeling (BEM)  
+- 🧠 Digital Twins  
+- ⚙️ Building operations & BMS analytics  
 
 > _Energy-efficient buildings start with intelligent digital models._
 
@@ -43,7 +39,7 @@ My work turns **point clouds and raw geometry** into **topologically clean, simu
 `IFC` · `gbXML` · `OpenBIM`
 
 **Energy & Simulation**  
-`EnergyPlus` · `IDA ICE` · `BEM workflows`
+`EnergyPlus` · `IDA ICE`
 
 **Workflows**  
 `Scan-to-BIM` · `Topology extraction` · `Semantic enrichment`
@@ -55,22 +51,48 @@ My work turns **point clouds and raw geometry** into **topologically clean, simu
 
 ## 🏆 GitHub Overview
 
-### Achievements
-![Trophies](./generated/metrics-trophies.svg)
+<details>
+<summary><b>🏅 Achievements</b></summary>
 
-### Stats & Languages
+<br/>
+
+<img src="./generated/metrics-trophies.svg" alt="GitHub trophies" />
+
+</details>
+
+<details>
+<summary><b>📊 Stats & Languages</b></summary>
+
+<br/>
+
 <p align="center">
-  <img src="./generated/metrics-stats.svg" width="48%"/>
-  <img src="./generated/metrics-languages.svg" width="48%"/>
+  <img src="./generated/metrics-stats.svg" width="48%" />
+  <img src="./generated/metrics-languages.svg" width="48%" />
 </p>
 
-### Recent Activity
-![Activity](./generated/metrics-activity.svg)
+</details>
+
+<details>
+<summary><b>📈 Recent Activity</b></summary>
+
+<br/>
+
+<img src="./generated/metrics-activity.svg" alt="Recent activity" />
+
+</details>
 
 ---
 
-## 📈 Contribution Flow
-![Snake](./generated/snake.svg)
+## 🧩 Contribution Flow
+
+<details>
+<summary><b>🐍 Visual contribution graph</b></summary>
+
+<br/>
+
+<img src="./generated/snake.svg" alt="Contribution snake" />
+
+</details>
 
 ---
 
