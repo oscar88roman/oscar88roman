@@ -16,18 +16,27 @@ From raw geometry to clean analytics — I help make buildings **energy-smart** 
 - 🧠 Digital Twins for **BMS** & building operations  
 - 📊 Structured geometry → performance insights
 
-## 📊 GitHub Stats
 
-![Profile summary](./profile-summary/profile-details.svg)
-![Languages](./profile-summary/repos-per-language.svg)
-![Commits](./profile-summary/most-commit-language.svg)
+---
+
+## 🏆 Trophies
+
+![Trophies](./generated/metrics-trophies.svg)
+
+---
+
+## 📊 Statistics
+
+![Stats](./generated/metrics-stats.svg)
+![Languages](./generated/metrics-languages.svg)
 
 ---
 
 ## 📈 Activity
 
-![Stats](./profile-summary/stats.svg)
-![Productive time](./profile-summary/productive-time.svg)
+![Activity](./generated/metrics-activity.svg)
+
+---
 
 
 ---
