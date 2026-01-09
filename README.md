@@ -18,27 +18,25 @@ From raw geometry to clean analytics — I help make buildings **energy-smart** 
 
 ---
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Oscar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=oscar88roman&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oscar88roman&layout=compact&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oscar88roman&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=oscar88roman&theme=radical)
 
 ---
 
-🏆 GitHub Trophies
+## 🏆 GitHub Trophies
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=oscar88roman&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-📈 Activity Graph
+## 📈 Activity Graph
 
-[![Oscar's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=oscar88roman&theme=react-dark)](https://github.com/oscar88roman)
-
----
+![Oscar's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oscar88roman&theme=react-dark)
 
 🌐 Let's Connect
 
